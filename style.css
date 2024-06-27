@@ -1,0 +1,13 @@
+.hidden {
+    display: none; /* Cache l'élément */
+    justify-content: center;
+    
+    
+}
+.style {
+    display: flex;
+    color: red;
+    flex-wrap: wrap
+    
+
+}
