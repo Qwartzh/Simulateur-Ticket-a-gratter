@@ -1,4 +1,4 @@
-// Variables globales pour suivre le nombre de tickets grattés, le prix total et les gains totaux
+//  Nombre de tickets grattés, le prix total et les gains totaux
 var nombreTicketsGrattes = 0;
 var prixTotal = 0;
 var gainsTotal = 0;
